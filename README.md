@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a software engineer with a strong interest in building scalable backend systems and exploring AI-driven solutions. I enjoy turning complex problems into clean, efficient architectures and continuously learning new technologies along the way.
+I’m a software engineer with a strong interest in building scalable systems and exploring AI-driven solutions. I enjoy turning complex problems into clean, efficient architectures and continuously learning new technologies along the way.
 
 
 ## 🌐 Socials:
